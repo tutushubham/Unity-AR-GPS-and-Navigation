@@ -1,0 +1,17 @@
+<linker>
+    <assembly fullname="AndroidBridge" ignoreIfMissing="1">
+        <type fullname="Wikitude.*" preserve="all" />
+    </assembly>
+    <assembly fullname="iOSBridge" ignoreIfMissing="1">
+        <type fullname="Wikitude.*" preserve="all" />
+    </assembly>
+    <assembly fullname="UWPBridge" ignoreIfMissing="1">
+        <type fullname="Wikitude.*" preserve="all" />
+    </assembly>
+    <assembly fullname="MacOSEditorBridge" ignoreIfMissing="1">
+        <type fullname="Wikitude.*" preserve="all" />
+    </assembly>
+    <assembly fullname="WindowsEditorBridge" ignoreIfMissing="1">
+        <type fullname="Wikitude.*" preserve="all" />
+    </assembly>
+</linker>

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Tyrannosaurus
+  m_Controller: {fileID: 9100000, guid: 116fffd4090fc421b8fe1253e6caef34, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400034, guid: cba8141d660034a4b8996ae628d828e4, type: 3}
+    m_OverrideClip: {fileID: 7400024, guid: 4337379ba51a14a489aa9cb5dbaadc16, type: 3}
+  - m_OriginalClip: {fileID: 7400038, guid: cba8141d660034a4b8996ae628d828e4, type: 3}
+    m_OverrideClip: {fileID: 7400040, guid: 4337379ba51a14a489aa9cb5dbaadc16, type: 3}
+  - m_OriginalClip: {fileID: 7400042, guid: cba8141d660034a4b8996ae628d828e4, type: 3}
+    m_OverrideClip: {fileID: 7400036, guid: 4337379ba51a14a489aa9cb5dbaadc16, type: 3}
+  - m_OriginalClip: {fileID: 7400004, guid: cba8141d660034a4b8996ae628d828e4, type: 3}
+    m_OverrideClip: {fileID: 7400016, guid: 4337379ba51a14a489aa9cb5dbaadc16, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: cba8141d660034a4b8996ae628d828e4, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 4337379ba51a14a489aa9cb5dbaadc16, type: 3}
+  - m_OriginalClip: {fileID: 7400002, guid: cba8141d660034a4b8996ae628d828e4, type: 3}
+    m_OverrideClip: {fileID: 7400002, guid: 4337379ba51a14a489aa9cb5dbaadc16, type: 3}
+  - m_OriginalClip: {fileID: 7400032, guid: cba8141d660034a4b8996ae628d828e4, type: 3}
+    m_OverrideClip: {fileID: 7400012, guid: 4337379ba51a14a489aa9cb5dbaadc16, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Spinosaurus
+  m_Controller: {fileID: 9100000, guid: 116fffd4090fc421b8fe1253e6caef34, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400034, guid: cba8141d660034a4b8996ae628d828e4, type: 3}
+    m_OverrideClip: {fileID: 7400016, guid: ea673077d7f51408d95fc8268ed21589, type: 3}
+  - m_OriginalClip: {fileID: 7400038, guid: cba8141d660034a4b8996ae628d828e4, type: 3}
+    m_OverrideClip: {fileID: 7400028, guid: ea673077d7f51408d95fc8268ed21589, type: 3}
+  - m_OriginalClip: {fileID: 7400042, guid: cba8141d660034a4b8996ae628d828e4, type: 3}
+    m_OverrideClip: {fileID: 7400032, guid: ea673077d7f51408d95fc8268ed21589, type: 3}
+  - m_OriginalClip: {fileID: 7400004, guid: cba8141d660034a4b8996ae628d828e4, type: 3}
+    m_OverrideClip: {fileID: 7400008, guid: ea673077d7f51408d95fc8268ed21589, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: cba8141d660034a4b8996ae628d828e4, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: ea673077d7f51408d95fc8268ed21589, type: 3}
+  - m_OriginalClip: {fileID: 7400002, guid: cba8141d660034a4b8996ae628d828e4, type: 3}
+    m_OverrideClip: {fileID: 7400002, guid: ea673077d7f51408d95fc8268ed21589, type: 3}
+  - m_OriginalClip: {fileID: 7400032, guid: cba8141d660034a4b8996ae628d828e4, type: 3}
+    m_OverrideClip: {fileID: 7400026, guid: ea673077d7f51408d95fc8268ed21589, type: 3}
